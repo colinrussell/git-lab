@@ -1,4 +1,5 @@
 Colin Russell
+1/21/2020
 
 Answers for CS 2400 Lab #2
 
@@ -64,4 +65,26 @@ Date:   Tue Jan 21 18:53:32 2020 -0500
     Initial commit
 
 9. 
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+10. No
+
+11. 
+To https://github.com/colinrussell/git-lab
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/colinrussell/git-lab'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+12. Yes
+
+13. .  ..  answers.md  git-lab  git-lab-2  Labs  README.md
+
+Done
 
