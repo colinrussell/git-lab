@@ -9,3 +9,6 @@ I recorded my answers in the answers.md file. It is in this repository.
 Best of Luck,
 Colin Russell
 
+
+Class Information:
+CS 2400, Section 109
